@@ -66,8 +66,8 @@ We can do a lot with these electronic board. Mostly for domotic they are very us
 
 [JavaScript]: https://github.com/alexba6
 [TypeScript]: https://github.com/alexba6
-[Jest]: https://github.com/alexba6jestjs.io/
-[NodeJs]: https://github.com/alexba6jestjs.io/
+[Jest]: https://github.com/alexba6
+[NodeJs]: https://github.com/alexba6
 [TypeORM]: https://github.com/alexba6
 [Expressjs]: https://github.com/alexba6
 [ReactJs]: https://github.com/alexba6
